@@ -94,7 +94,7 @@ You can integrate this system with:
 This project is adapted from various IoT community examples. Hardware assembly and deployment logic were done by me. Credit goes to original authors for core sensor libraries and firmware references.
 
 ## 📬 Contact
-- GitHub: @Lunardy2509
+- GitHub: [@Lunardy2509](https://github.com/Lunardy2509)
 - Email: ferdilunardy@gmail.com
 
 If this project inspires your smart classroom ideas, consider giving it a ⭐️ or forking it to enhance it further!
