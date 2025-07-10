@@ -9,7 +9,7 @@
 
 # 🌐 IoT Power Meter
 
-This project is an IoT-enabled ammeter and temperature monitoring system using **ESP8266**, implemented in a school environment in **Depok, West Java, Indonesia**. It aims to monitor energy usage in various electronic devices by sending real-time data to a dashboard from over 60+ ESP8266 nodes installed in classrooms.
+This project is an IoT-enabled ammeter to measure power and temperature monitoring system using **ESP8266**, implemented in a school environment in **Depok, West Java, Indonesia**. It aims to monitor energy usage in various electronic devices by sending real-time data to a dashboard from over 60+ ESP8266 nodes installed in classrooms.
 
 ---
 
