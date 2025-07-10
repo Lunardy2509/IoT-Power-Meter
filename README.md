@@ -1,3 +1,12 @@
+<details>
+<summary>Click to view Documentation Images</summary>
+
+| | | |
+|---|---|---|
+| ![1](https://github.com/Lunardy2509/IoT_esp8266_Ampmeter_Tempmeter/blob/main/documentation/IMG-20240329-WA0028.jpg) | ![2](https://github.com/Lunardy2509/IoT_esp8266_Ampmeter_Tempmeter/blob/main/documentation/IMG-20240329-WA0024.jpg) | ![3](https://github.com/Lunardy2509/IoT_esp8266_Ampmeter_Tempmeter/blob/main/documentation/IMG-20240329-WA0029.jpg) |
+
+</details>
+
 # 🌐 IoT ESP8266-Based Ampmeter & Temperature Meter
 
 This project is an IoT-enabled ammeter and temperature monitoring system using **ESP8266**, implemented in a school environment in **Depok, West Java, Indonesia**. It aims to monitor energy usage in various electronic devices by sending real-time data to a dashboard from over 60+ ESP8266 nodes installed in classrooms.
